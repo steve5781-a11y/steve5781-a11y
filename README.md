@@ -5,7 +5,7 @@
 
 <!-- 타자 치듯 바뀌는 문장 -->
 <a href="https://github.com/steve5781-a11y">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3000&pause=800&color=2E7D32&center=true&vCenter=true&width=600&lines=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C+%EC%88%98%EA%B2%BD%EC%9E%AC%EB%B0%B0%EB%A5%BC+%EC%97%B0%EA%B5%AC%ED%96%88%EC%96%B4%EC%9A%94+%F0%9F%8C%B1;%EB%86%8D%EC%97%85%EC%97%90+%ED%94%BC%EC%A7%80%EC%BB%AC+AI%EB%A5%BC+%EB%8D%94%ED%95%98%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94+%F0%9F%A4%96;%EB%B3%B4%EA%B3%A0%2C+%ED%8C%90%EB%8B%A8%ED%95%98%EA%B3%A0%2C+%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94+%EB%86%8D%EC%9E%A5%EC%9D%84+%EA%BF%88%EA%BF%94%EC%9A%94+%F0%9F%9A%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3000&pause=800&color=2E7D32&center=true&vCenter=true&width=600&lines=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C+%EC%88%98%EA%B2%BD%EC%9E%AC%EB%B0%B0%EB%A5%BC+%EC%97%B0%EA%B5%AC%ED%96%88%EC%96%B4%EC%9A%94;%EB%86%8D%EC%97%85%EC%97%90+%ED%94%BC%EC%A7%80%EC%BB%AC+AI%EB%A5%BC+%EB%8D%94%ED%95%98%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94;%EB%B3%B4%EA%B3%A0%2C+%ED%8C%90%EB%8B%A8%ED%95%98%EA%B3%A0%2C+%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94+%EB%86%8D%EC%9E%A5%EC%9D%84+%EA%BF%88%EA%BF%94%EC%9A%94" alt="Typing SVG" />
 </a>
 
 <br>
@@ -16,21 +16,21 @@
 
 <br>
 
-## 🙋 About Me
+## About Me
 
 > **농업을 아는 사람이 만드는 피지컬 AI**  
 > 작물이 자라는 현장을 알기 때문에, AI가 무엇을 보고 무엇을 판단해야 하는지 고민할 수 있어요.
 
-- 🌱 **농업 스마트팜 수경재배**를 전공하고 **석사**를 졸업했어요.
-- 💼 농업 컨설팅 회사 **이암허브**에서 약 **6개월** 동안 일하며 농업 현장의 문제를 가까이에서 봤어요.
-- 🤖 지금은 **피지컬 AI**(카메라와 센서로 보고, 판단하고, 움직이는 AI)를 공부하며 농업에 적용할 방법을 찾고 있어요.
-- 🐍 **파이썬**과 **컴퓨터 비전**을 배우고, 배운 것을 바로 작은 프로젝트로 만들어 배포해요.
+- **농업 스마트팜 수경재배**를 전공하고 **석사**를 졸업했어요.
+- 농업 컨설팅 회사 **이암허브**에서 약 **6개월** 동안 일하며 농업 현장의 문제를 가까이에서 봤어요.
+- 지금은 **피지컬 AI**(카메라와 센서로 보고, 판단하고, 움직이는 AI)를 공부하며 농업에 적용할 방법을 찾고 있어요.
+- **파이썬**과 **컴퓨터 비전**을 배우고, 배운 것을 바로 작은 프로젝트로 만들어 배포해요.
 
 <br>
 
-## 🌾 Agriculture × Physical AI
+## Agriculture × Physical AI
 
-### 🎯 만들고 싶은 것: 카메라로 작물의 병을 찾아내는 스마트팜
+### 만들고 싶은 것: 카메라로 작물의 병을 찾아내는 스마트팜
 
 수경재배 베드 위의 카메라가 작물을 **한 포기씩 인식**하고, 잎의 색과 무늬를 보고 **병이 의심되는 포기를 골라내** 알려 주는 시스템이에요.
 
@@ -48,35 +48,35 @@
   <img src="assets/leaf-diagnosis.svg" width="100%" alt="상추 잎을 확대해 병반 3곳을 표시하고 노균병 88% 진단 결과를 보여 주는 화면"/>
 </p>
 
-<sub>📌 위 그림은 제가 만들고 싶은 시스템을 직접 그린 일러스트예요. 실제 촬영 화면이 아니에요.</sub>
+<sub>위 그림은 제가 만들고 싶은 시스템을 직접 그린 일러스트예요. 실제 촬영 화면이 아니에요.</sub>
 
 <br><br>
 
-### 🧩 농업 현장의 문제와 피지컬 AI
+### 농업 현장의 문제와 피지컬 AI
 
 농업 현장의 문제를 **피지컬 AI**로 풀어 보는 것이 목표예요. 지금 익히고 있는 기술과 앞으로 연결하고 싶은 방향이에요.
 
 | 농업 현장에서 | 피지컬 AI로 해 보고 싶은 것 | 지금 익히고 있는 기술 |
 |:--|:--|:--|
-| 🥬 작물 생육 관찰 | 카메라로 잎 크기·색을 보고 생육 상태를 기록 | OpenCV, MediaPipe |
-| 🐛 병해충 · 이상 발견 | 사진 속 이상 부위를 찾아 미리 알려 주기 | 객체 인식 (YOLO) |
-| 🍅 수확 시기 판단 | 열매 색과 크기로 수확할 때를 판단 | 이미지 분류, Teachable Machine |
-| 💧 수경재배 환경 관리 | 센서 값과 영상을 함께 보고 환경을 조절 | Python · 아두이노 센서 (앞으로 공부) |
-| 🧑‍🌾 농작업 보조 | 사람의 손동작·자세를 인식해 작업을 돕기 | 손·포즈 인식 (MediaPipe) |
+| 작물 생육 관찰 | 카메라로 잎 크기·색을 보고 생육 상태를 기록 | OpenCV, MediaPipe |
+| 병해충 · 이상 발견 | 사진 속 이상 부위를 찾아 미리 알려 주기 | 객체 인식 (YOLO) |
+| 수확 시기 판단 | 열매 색과 크기로 수확할 때를 판단 | 이미지 분류, Teachable Machine |
+| 수경재배 환경 관리 | 센서 값과 영상을 함께 보고 환경을 조절 | Python · 아두이노 센서 (앞으로 공부) |
+| 농작업 보조 | 사람의 손동작·자세를 인식해 작업을 돕기 | 손·포즈 인식 (MediaPipe) |
 
 <br>
 
-## 🎓 Education & Experience
+## Education & Experience
 
 | 구분 | 내용 |
 |:--|:--|
-| 🎓 **학력** | **석사 졸업** · 농업 스마트팜 수경재배 전공 |
-| 💼 **경력** | **이암허브** · 농업 컨설팅 · 약 6개월 |
-| 📘 **교육** | **피지컬 AI 수업** 수강 · 컴퓨터 비전, 포즈 인식 실습 (2026) |
+| **학력** | **석사 졸업** · 농업 스마트팜 수경재배 전공 |
+| **경력** | **이암허브** · 농업 컨설팅 · 약 6개월 |
+| **교육** | **피지컬 AI 수업** 수강 · 컴퓨터 비전, 포즈 인식 실습 (2026) |
 
 <br>
 
-## 🛠 Skills
+## Skills
 
 <div align="center">
 
@@ -115,7 +115,7 @@
 
 <br>
 
-## 💻 개발 환경
+## 개발 환경
 
 | 구분 | 사용해 본 것 |
 |:----|:----|
@@ -128,7 +128,7 @@
 
 <br>
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
@@ -139,76 +139,76 @@
 
 </div>
 
-### ✋ mediapipe-hand · 손 제스처 인식 + 이모지 효과
+### mediapipe-hand · 손 제스처 인식 + 이모지 효과
 > 웹캠으로 손을 실시간 인식하고, **내가 만든 손동작을 직접 학습**시켜 알아보면 손에서 이모지가 날아가요.
 
 - **한 일:** 손동작 녹화 → 학습 → 실시간 인식까지 전체 과정 구현, 학습한 모델을 웹용으로 바꿔 브라우저에서 바로 실행
 - **기술:** Python · MediaPipe · OpenCV · PyTorch · NumPy · JavaScript
-- 🌐 [웹 데모 바로 가기](https://steve5781-a11y.github.io/mediapipe-hand/) · 📁 [저장소](https://github.com/steve5781-a11y/mediapipe-hand)
+- [웹 데모 바로 가기](https://steve5781-a11y.github.io/mediapipe-hand/) · [저장소](https://github.com/steve5781-a11y/mediapipe-hand)
 
-### 🔮 myeongun-saju · 명운당 사주 × MBTI 운세 웹앱
+### myeongun-saju · 명운당 사주 × MBTI 운세 웹앱
 > 만세력으로 사주팔자를 계산하고 **MBTI · 혈액형 · 별자리**를 겹쳐 보는 운세 웹앱이에요. 친구 말투로 바뀌는 **팩폭 모드**도 있어요.
 
 - **한 일:** 사주 계산, 오늘의 운세, 궁합 화면 구현, 입력 정보는 브라우저 안에서만 계산하도록 설계
 - **기술:** JavaScript · HTML · CSS · GitHub Actions (자동 배포)
-- 🌐 [웹앱 바로 가기](https://steve5781-a11y.github.io/myeongun-saju/) · 📁 [저장소](https://github.com/steve5781-a11y/myeongun-saju)
+- [웹앱 바로 가기](https://steve5781-a11y.github.io/myeongun-saju/) · [저장소](https://github.com/steve5781-a11y/myeongun-saju)
 
-### 🐍 snake · 포즈로 조종하는 뱀 게임
+### snake · 포즈로 조종하는 뱀 게임
 > 웹캠 앞에서 **몸을 움직여** 뱀을 조종하는 브라우저 게임이에요. 피지컬 AI 수업 실습으로 만들었어요.
 
 - **한 일:** Teachable Machine으로 위·아래·왼쪽·오른쪽·정지 포즈 학습, 확신도 80% 이상일 때만 명령으로 인정
 - **기술:** JavaScript · HTML · TensorFlow.js · Teachable Machine
-- 📁 [저장소](https://github.com/steve5781-a11y/snake)
+- [저장소](https://github.com/steve5781-a11y/snake)
 
-### 🎯 shooting-game · 사격 게임 & 쭈꾸르 주식왕
+### shooting-game · 사격 게임 & 쭈꾸르 주식왕
 > 브라우저에서 바로 하는 **사격 게임**과, 뉴스에 따라 주가가 움직이는 **주식 거래 게임**이에요.
 
 - **한 일:** 장 시간(09:00~16:00)에만 거래, 뉴스 이유가 붙는 무작위 주가 변동, 커뮤니티 게시판 구현
 - **기술:** JavaScript · HTML · CSS
-- 🌐 [사격 게임](https://steve5781-a11y.github.io/shooting-game/) · 🌐 [주식 게임](https://steve5781-a11y.github.io/shooting-game/stock.html) · 📁 [저장소](https://github.com/steve5781-a11y/shooting-game)
+- [사격 게임](https://steve5781-a11y.github.io/shooting-game/) · [주식 게임](https://steve5781-a11y.github.io/shooting-game/stock.html) · [저장소](https://github.com/steve5781-a11y/shooting-game)
 
 <br>
 
-## 📂 Repositories
+## Repositories
 
 | 저장소 | 언어 | 설명 | 데모 |
 |:------|:----:|:-----|:----:|
-| [mediapipe-hand](https://github.com/steve5781-a11y/mediapipe-hand) | Python | 손 제스처 인식 + 이모지 효과 | [🌐](https://steve5781-a11y.github.io/mediapipe-hand/) |
-| [myeongun-saju](https://github.com/steve5781-a11y/myeongun-saju) | JavaScript | 사주 × MBTI × 혈액형 운세 웹앱 | [🌐](https://steve5781-a11y.github.io/myeongun-saju/) |
+| [mediapipe-hand](https://github.com/steve5781-a11y/mediapipe-hand) | Python | 손 제스처 인식 + 이모지 효과 | [보기](https://steve5781-a11y.github.io/mediapipe-hand/) |
+| [myeongun-saju](https://github.com/steve5781-a11y/myeongun-saju) | JavaScript | 사주 × MBTI × 혈액형 운세 웹앱 | [보기](https://steve5781-a11y.github.io/myeongun-saju/) |
 | [snake](https://github.com/steve5781-a11y/snake) | HTML | 포즈로 조종하는 뱀 게임 | - |
-| [shooting-game](https://github.com/steve5781-a11y/shooting-game) | HTML | 사격 게임 & 주식 거래 게임 | [🌐](https://steve5781-a11y.github.io/shooting-game/) |
+| [shooting-game](https://github.com/steve5781-a11y/shooting-game) | HTML | 사격 게임 & 주식 거래 게임 | [보기](https://steve5781-a11y.github.io/shooting-game/) |
 | [steve5781-a11y](https://github.com/steve5781-a11y/steve5781-a11y) | Markdown | 지금 보고 있는 프로필 | - |
 
 <br>
 
-## 🤝 협업
+## 협업
 
-- 💼 **이암허브**에서 약 6개월 동안 농업 컨설팅 업무를 하며 회사에서 일하는 경험을 쌓았어요.
-- 💻 GitHub에 올린 프로젝트는 모두 **혼자 기획부터 개발, 배포까지** 진행했어요.
-- 🎯 다음 목표는 **농업 × AI 팀 프로젝트**에서 브랜치 · Pull Request · 코드 리뷰로 함께 개발해 보는 거예요.
+- **이암허브**에서 약 6개월 동안 농업 컨설팅 업무를 하며 회사에서 일하는 경험을 쌓았어요.
+- GitHub에 올린 프로젝트는 모두 **혼자 기획부터 개발, 배포까지** 진행했어요.
+- 다음 목표는 **농업 × AI 팀 프로젝트**에서 브랜치 · Pull Request · 코드 리뷰로 함께 개발해 보는 거예요.
 
 <br>
 
-## 📜 자격증
+## 자격증
 
 - 아직 취득한 자격증은 없어요. 공부하면서 차근차근 준비할 예정이에요.
 
 <br>
 
-## 📚 공부 기록
+## 공부 기록
 
 | 주제 | 내용 | 상태 |
 |:----|:----|:----:|
-| 파이썬 기초 | 변수, 출력, 자료형, 계산 | ✅ |
-| 입력과 문자열 | `input`, 형변환, 문자열 정리 | ✅ |
-| 조건문 · 반복문 | `if` · `elif` · `else`, `for` (별 트리 찍기) | ✅ |
-| Git · 마크다운 | `add` → `commit` → `push`, README 작성 | ✅ |
-| 함수 | `def`, 매개변수, `return` | 🔥 공부 중 |
-| 미니 프로젝트 | 학교 매점 재고 메모 앱 (tkinter, 파일 저장) | 🔥 만드는 중 |
+| 파이썬 기초 | 변수, 출력, 자료형, 계산 | 완료 |
+| 입력과 문자열 | `input`, 형변환, 문자열 정리 | 완료 |
+| 조건문 · 반복문 | `if` · `elif` · `else`, `for` (별 트리 찍기) | 완료 |
+| Git · 마크다운 | `add` → `commit` → `push`, README 작성 | 완료 |
+| 함수 | `def`, 매개변수, `return` | 공부 중 |
+| 미니 프로젝트 | 학교 매점 재고 메모 앱 (tkinter, 파일 저장) | 만드는 중 |
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -219,7 +219,7 @@
 
 <br>
 
-## 📝 마크다운 문법 완벽 가이드
+## 마크다운 문법 완벽 가이드
 
 공부하면서 정리한 마크다운 문법이에요. 항목을 누르면 **쓰는 법**과 **결과**가 함께 보여요.
 
@@ -460,7 +460,7 @@ def hello(name):
 
 [1]: https://www.markdownguide.org
 
-[위로 가기](#-about-me)
+[위로 가기](#about-me)
 ```
 
 [구글](https://google.com)  
@@ -471,7 +471,7 @@ def hello(name):
 
 [1]: https://www.markdownguide.org
 
-[위로 가기](#-about-me)
+[위로 가기](#about-me)
 
 > 문서 안의 제목으로 이동할 때는 `#제목` 처럼 써요. 띄어쓰기는 `-` 로, 영어는 소문자로 바꿔요.
 
@@ -557,13 +557,13 @@ ___
 <summary><b>13. 이모지</b></summary>
 <br>
 
-`:이름:` 형태로 쓰면 이모지가 돼요. 이모지를 그대로 붙여 넣어도 돼요.
+`:이름:` 형태로 쓰면 그림 문자(이모지)가 돼요.
 
 ```markdown
 :smile: :rocket: :snake: :fire: :tada: :white_check_mark:
 ```
 
-:smile: :rocket: :snake: :fire: :tada: :white_check_mark:
+결과: `:smile:` 은 웃는 얼굴, `:rocket:` 은 로켓 그림 문자로 바뀌어요.
 
 </details>
 
@@ -666,7 +666,7 @@ flowchart LR
 <br>
 
 <details>
-<summary><b>💬 나에게 하는 한 마디 (펼쳐 보기)</b></summary>
+<summary><b>나에게 하는 한 마디 (펼쳐 보기)</b></summary>
 <br>
 
 > 처음부터 잘하는 사람은 없다.  
