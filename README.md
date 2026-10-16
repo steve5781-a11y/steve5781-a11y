@@ -1,11 +1,11 @@
 <!-- 맨 위 물결 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:7C4DFF&height=220&section=header&text=Hello%2C%20I'm%20Steve!&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20Git%20%C2%B7%20Markdown&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:7C4DFF&height=220&section=header&text=Hello%2C%20I'm%20Steve!&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20AI%20Vision%20%C2%B7%20Web&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 <!-- 타자 치듯 바뀌는 문장 -->
 <a href="https://github.com/steve5781-a11y">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=520&lines=%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94+%F0%9F%90%8D;%EB%A7%A4%EC%9D%BC+%EC%A1%B0%EA%B8%88%EC%94%A9+%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B8%B0+%F0%9F%8C%B1;%EC%B2%AB+%EB%AF%B8%EB%8B%88+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%A4%91+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=560&lines=%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C+AI%EC%99%80+%EC%9B%B9%EC%9D%84+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%9A%94+%F0%9F%90%8D;%EC%86%90%EC%A7%93%EC%9D%84+%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94+AI%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%97%88%EC%96%B4%EC%9A%94+%E2%9C%8B;%EB%A7%A4%EC%9D%BC+%EC%A1%B0%EA%B8%88%EC%94%A9%2C+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B8%B0+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,29 +18,122 @@
 
 ## 🙋 About Me
 
-- 🐍 **파이썬**으로 프로그래밍을 처음 배우고 있어요.
-- 🌱 배운 것은 바로 코드로 써 보고, 그 기록을 GitHub에 남겨요.
-- 📝 Git과 마크다운으로 공부 내용을 정리하는 습관을 들이는 중이에요.
-- 🎯 올해 목표: **나만의 미니 프로젝트 완성하기**
+- 🐍 **파이썬**으로 프로그래밍을 배우고, 배운 것을 바로 작은 프로젝트로 만들어 봐요.
+- ✋ 웹캠으로 **손·포즈를 인식하는 AI**에 관심이 많아요.
+- 🌐 만든 프로젝트는 **GitHub Pages**로 배포해서 누구나 브라우저에서 써 볼 수 있게 해요.
+- 🎓 **피지컬 AI 수업**을 들으며 컴퓨터 비전과 포즈 인식을 실습하고 있어요. (2026)
 
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 <div align="center">
 
 **Language**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
 
-**Tools**
+**AI · Vision**
+
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+**Tools · Deploy**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 </div>
+
+<br>
+
+## 💻 개발 환경
+
+| 구분 | 사용해 본 것 |
+|:----|:----|
+| 운영체제 | Windows 11 |
+| 코드 편집기 | Visual Studio Code |
+| 언어 · 실행 환경 | Python 3.14 · Node.js 24 · 웹 브라우저 (Chrome) |
+| 버전 관리 | Git · GitHub CLI (`gh`) · GitHub Desktop |
+| 배포 | GitHub Pages · GitHub Actions (push하면 자동 배포) |
+| 장치 | 웹캠으로 실시간 영상 입력 받기 |
+
+<br>
+
+## 🚀 Projects
+
+<div align="center">
+
+<a href="https://github.com/steve5781-a11y/mediapipe-hand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=steve5781-a11y&repo=mediapipe-hand&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/steve5781-a11y/myeongun-saju"><img src="https://github-readme-stats.vercel.app/api/pin/?username=steve5781-a11y&repo=myeongun-saju&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/steve5781-a11y/snake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=steve5781-a11y&repo=snake&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/steve5781-a11y/shooting-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=steve5781-a11y&repo=shooting-game&theme=tokyonight&hide_border=true"/></a>
+
+</div>
+
+### ✋ mediapipe-hand · 손 제스처 인식 + 이모지 효과
+> 웹캠으로 손을 실시간 인식하고, **내가 만든 손동작을 직접 학습**시켜 알아보면 손에서 이모지가 날아가요.
+
+- **한 일:** 손동작 녹화 → 학습 → 실시간 인식까지 전체 과정 구현, 학습한 모델을 웹용으로 바꿔 브라우저에서 바로 실행
+- **기술:** Python · MediaPipe · OpenCV · PyTorch · NumPy · JavaScript
+- 🌐 [웹 데모 바로 가기](https://steve5781-a11y.github.io/mediapipe-hand/) · 📁 [저장소](https://github.com/steve5781-a11y/mediapipe-hand)
+
+### 🔮 myeongun-saju · 명운당 사주 × MBTI 운세 웹앱
+> 만세력으로 사주팔자를 계산하고 **MBTI · 혈액형 · 별자리**를 겹쳐 보는 운세 웹앱이에요. 친구 말투로 바뀌는 **팩폭 모드**도 있어요.
+
+- **한 일:** 사주 계산, 오늘의 운세, 궁합 화면 구현, 입력 정보는 브라우저 안에서만 계산하도록 설계
+- **기술:** JavaScript · HTML · CSS · GitHub Actions (자동 배포)
+- 🌐 [웹앱 바로 가기](https://steve5781-a11y.github.io/myeongun-saju/) · 📁 [저장소](https://github.com/steve5781-a11y/myeongun-saju)
+
+### 🐍 snake · 포즈로 조종하는 뱀 게임
+> 웹캠 앞에서 **몸을 움직여** 뱀을 조종하는 브라우저 게임이에요. 피지컬 AI 수업 실습으로 만들었어요.
+
+- **한 일:** Teachable Machine으로 위·아래·왼쪽·오른쪽·정지 포즈 학습, 확신도 80% 이상일 때만 명령으로 인정
+- **기술:** JavaScript · HTML · TensorFlow.js · Teachable Machine
+- 📁 [저장소](https://github.com/steve5781-a11y/snake)
+
+### 🎯 shooting-game · 사격 게임 & 쭈꾸르 주식왕
+> 브라우저에서 바로 하는 **사격 게임**과, 뉴스에 따라 주가가 움직이는 **주식 거래 게임**이에요.
+
+- **한 일:** 장 시간(09:00~16:00)에만 거래, 뉴스 이유가 붙는 무작위 주가 변동, 커뮤니티 게시판 구현
+- **기술:** JavaScript · HTML · CSS
+- 🌐 [사격 게임](https://steve5781-a11y.github.io/shooting-game/) · 🌐 [주식 게임](https://steve5781-a11y.github.io/shooting-game/stock.html) · 📁 [저장소](https://github.com/steve5781-a11y/shooting-game)
+
+<br>
+
+## 📂 Repositories
+
+| 저장소 | 언어 | 설명 | 데모 |
+|:------|:----:|:-----|:----:|
+| [mediapipe-hand](https://github.com/steve5781-a11y/mediapipe-hand) | Python | 손 제스처 인식 + 이모지 효과 | [🌐](https://steve5781-a11y.github.io/mediapipe-hand/) |
+| [myeongun-saju](https://github.com/steve5781-a11y/myeongun-saju) | JavaScript | 사주 × MBTI × 혈액형 운세 웹앱 | [🌐](https://steve5781-a11y.github.io/myeongun-saju/) |
+| [snake](https://github.com/steve5781-a11y/snake) | HTML | 포즈로 조종하는 뱀 게임 | - |
+| [shooting-game](https://github.com/steve5781-a11y/shooting-game) | HTML | 사격 게임 & 주식 거래 게임 | [🌐](https://steve5781-a11y.github.io/shooting-game/) |
+| [steve5781-a11y](https://github.com/steve5781-a11y/steve5781-a11y) | Markdown | 지금 보고 있는 프로필 | - |
+
+<br>
+
+## 🤝 협업
+
+- 지금까지의 프로젝트는 모두 **혼자 기획부터 개발, 배포까지** 진행했어요.
+- 다음 목표는 **팀 프로젝트**에서 브랜치 · Pull Request · 코드 리뷰로 함께 개발해 보는 거예요.
+
+<br>
+
+## 📜 자격증
+
+- 아직 취득한 자격증은 없어요. 공부하면서 차근차근 준비할 예정이에요.
 
 <br>
 
@@ -48,18 +141,12 @@
 
 | 주제 | 내용 | 상태 |
 |:----|:----|:----:|
-| 파이썬 기초 | 변수, 값 바꾸기 | ✅ |
-| Git | `add` → `commit` → `push` | ✅ |
-| 마크다운 | 제목, 목록, 코드, 표 | ✅ |
-| 파이썬 제어문 | 반복문, 조건문 | 🔥 공부 중 |
-| 함수 | 함수 만들고 불러오기 | ⏳ 예정 |
-| 미니 프로젝트 | 직접 기획하고 완성하기 | ⏳ 예정 |
-
-<br>
-
-## 📂 Projects
-
-> 🚧 첫 공개 프로젝트를 준비하고 있어요. 완성되면 여기에 올릴게요!
+| 파이썬 기초 | 변수, 출력, 자료형, 계산 | ✅ |
+| 입력과 문자열 | `input`, 형변환, 문자열 정리 | ✅ |
+| 조건문 · 반복문 | `if` · `elif` · `else`, `for` (별 트리 찍기) | ✅ |
+| Git · 마크다운 | `add` → `commit` → `push`, README 작성 | ✅ |
+| 함수 | `def`, 매개변수, `return` | 🔥 공부 중 |
+| 미니 프로젝트 | 학교 매점 재고 메모 앱 (tkinter, 파일 저장) | 🔥 만드는 중 |
 
 <br>
 
