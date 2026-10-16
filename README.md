@@ -1,16 +1,16 @@
 <!-- 맨 위 물결 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:7C4DFF&height=220&section=header&text=Hello%2C%20I'm%20Steve!&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20%C2%B7%20AI%20Vision%20%C2%B7%20Web&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:7C4DFF&height=230&section=header&text=Smart%20Farm%20%C3%97%20Physical%20AI&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Hydroponics%20%C2%B7%20Computer%20Vision%20%C2%B7%20Python&descAlignY=57&descSize=20&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 <!-- 타자 치듯 바뀌는 문장 -->
 <a href="https://github.com/steve5781-a11y">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3000&pause=800&color=7C4DFF&center=true&vCenter=true&width=560&lines=%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C+AI%EC%99%80+%EC%9B%B9%EC%9D%84+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%9A%94+%F0%9F%90%8D;%EC%86%90%EC%A7%93%EC%9D%84+%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94+AI%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%97%88%EC%96%B4%EC%9A%94+%E2%9C%8B;%EB%A7%A4%EC%9D%BC+%EC%A1%B0%EA%B8%88%EC%94%A9%2C+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%BB%A4%EB%B0%8B%ED%95%98%EA%B8%B0+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=24&duration=3000&pause=800&color=2E7D32&center=true&vCenter=true&width=600&lines=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C+%EC%88%98%EA%B2%BD%EC%9E%AC%EB%B0%B0%EB%A5%BC+%EC%97%B0%EA%B5%AC%ED%96%88%EC%96%B4%EC%9A%94+%F0%9F%8C%B1;%EB%86%8D%EC%97%85%EC%97%90+%ED%94%BC%EC%A7%80%EC%BB%AC+AI%EB%A5%BC+%EB%8D%94%ED%95%98%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94+%F0%9F%A4%96;%EB%B3%B4%EA%B3%A0%2C+%ED%8C%90%EB%8B%A8%ED%95%98%EA%B3%A0%2C+%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94+%EB%86%8D%EC%9E%A5%EC%9D%84+%EA%BF%88%EA%BF%94%EC%9A%94+%F0%9F%9A%9C" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=steve5781-a11y&label=Profile%20views&color=7C4DFF&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=steve5781-a11y&label=Profile%20views&color=2E7D32&style=flat-square" alt="profile views"/>
 
 </div>
 
@@ -18,16 +18,49 @@
 
 ## 🙋 About Me
 
-- 🐍 **파이썬**으로 프로그래밍을 배우고, 배운 것을 바로 작은 프로젝트로 만들어 봐요.
-- ✋ 웹캠으로 **손·포즈를 인식하는 AI**에 관심이 많아요.
-- 🌐 만든 프로젝트는 **GitHub Pages**로 배포해서 누구나 브라우저에서 써 볼 수 있게 해요.
-- 🎓 **피지컬 AI 수업**을 들으며 컴퓨터 비전과 포즈 인식을 실습하고 있어요. (2026)
+> **농업을 아는 사람이 만드는 피지컬 AI**  
+> 작물이 자라는 현장을 알기 때문에, AI가 무엇을 보고 무엇을 판단해야 하는지 고민할 수 있어요.
+
+- 🌱 **농업 스마트팜 수경재배**를 전공하고 **석사**를 졸업했어요.
+- 💼 농업 컨설팅 회사 **이암허브**에서 약 **6개월** 동안 일하며 농업 현장의 문제를 가까이에서 봤어요.
+- 🤖 지금은 **피지컬 AI**(카메라와 센서로 보고, 판단하고, 움직이는 AI)를 공부하며 농업에 적용할 방법을 찾고 있어요.
+- 🐍 **파이썬**과 **컴퓨터 비전**을 배우고, 배운 것을 바로 작은 프로젝트로 만들어 배포해요.
+
+<br>
+
+## 🌾 Agriculture × Physical AI
+
+농업 현장의 문제를 **피지컬 AI**로 풀어 보는 것이 목표예요. 지금 익히고 있는 기술과 앞으로 연결하고 싶은 방향이에요.
+
+| 농업 현장에서 | 피지컬 AI로 해 보고 싶은 것 | 지금 익히고 있는 기술 |
+|:--|:--|:--|
+| 🥬 작물 생육 관찰 | 카메라로 잎 크기·색을 보고 생육 상태를 기록 | OpenCV, MediaPipe |
+| 🐛 병해충 · 이상 발견 | 사진 속 이상 부위를 찾아 미리 알려 주기 | 객체 인식 (YOLO) |
+| 🍅 수확 시기 판단 | 열매 색과 크기로 수확할 때를 판단 | 이미지 분류, Teachable Machine |
+| 💧 수경재배 환경 관리 | 센서 값과 영상을 함께 보고 환경을 조절 | Python · 아두이노 센서 (앞으로 공부) |
+| 🧑‍🌾 농작업 보조 | 사람의 손동작·자세를 인식해 작업을 돕기 | 손·포즈 인식 (MediaPipe) |
+
+<br>
+
+## 🎓 Education & Experience
+
+| 구분 | 내용 |
+|:--|:--|
+| 🎓 **학력** | **석사 졸업** · 농업 스마트팜 수경재배 전공 |
+| 💼 **경력** | **이암허브** · 농업 컨설팅 · 약 6개월 |
+| 📘 **교육** | **피지컬 AI 수업** 수강 · 컴퓨터 비전, 포즈 인식 실습 (2026) |
 
 <br>
 
 ## 🛠 Skills
 
 <div align="center">
+
+**Domain**
+
+<img src="https://img.shields.io/badge/Smart%20Farm-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydroponics-0288D1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agri%20Consulting-8D6E63?style=for-the-badge"/>
 
 **Language**
 
@@ -126,8 +159,9 @@
 
 ## 🤝 협업
 
-- 지금까지의 프로젝트는 모두 **혼자 기획부터 개발, 배포까지** 진행했어요.
-- 다음 목표는 **팀 프로젝트**에서 브랜치 · Pull Request · 코드 리뷰로 함께 개발해 보는 거예요.
+- 💼 **이암허브**에서 약 6개월 동안 농업 컨설팅 업무를 하며 회사에서 일하는 경험을 쌓았어요.
+- 💻 GitHub에 올린 프로젝트는 모두 **혼자 기획부터 개발, 배포까지** 진행했어요.
+- 🎯 다음 목표는 **농업 × AI 팀 프로젝트**에서 브랜치 · Pull Request · 코드 리뷰로 함께 개발해 보는 거예요.
 
 <br>
 
@@ -617,4 +651,4 @@ flowchart LR
 </details>
 
 <!-- 맨 아래 물결 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:3776AB&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C4DFF,100:2E7D32&height=120&section=footer" width="100%"/>
